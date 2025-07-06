@@ -1,4 +1,3 @@
-# nizwa-fort-wordpress-site
 # Nizwa Fort History Blog
 
 Welcome to the official repository for the **"History Behind Nizwa Fort"** blog — a WordPress-powered platform dedicated to exploring the cultural, architectural, and historical significance of one of Oman’s most iconic landmarks.
